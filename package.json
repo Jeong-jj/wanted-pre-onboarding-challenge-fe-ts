@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs": "jsdoc -c jsdoc.config.json",
     "predeploy": "npm run docs",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d docs"
   },
   "keywords": [],
   "author": "",
