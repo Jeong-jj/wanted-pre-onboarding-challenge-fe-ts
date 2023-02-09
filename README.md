@@ -28,7 +28,7 @@ npm run docs
 
 ### 과제 목표
 
-Typescript를 이해하기 전 JSDoc을 활용해 데이터에 대한 요구사항을 작성해본다. <br/>
+- Typescript를 이해하기 전 JSDoc을 활용해 데이터에 대한 요구사항을 작성해본다.
 
 <br/>
 
